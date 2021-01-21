@@ -1,9 +1,5 @@
 package com.lifengdi.leetcode;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * 3. 无重复字符的最长子串
  * <p>
